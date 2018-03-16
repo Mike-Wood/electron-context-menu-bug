@@ -1,0 +1,15 @@
+{
+  "name": "electron-context-menu-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Mike-Wood/electron-context-menu-bug",
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  }
+}
